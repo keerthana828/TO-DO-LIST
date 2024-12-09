@@ -2,8 +2,7 @@
 
 TO-DO-LIST (Made using HTML5 CSS3 and JavaScript)
 
-You can see the website live at: 
-
+You can see the website live at: https://keerthana828.github.io/TO-DO-LIST/
 
 
 ABOUT THIS PROJECT-:
